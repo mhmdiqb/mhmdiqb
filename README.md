@@ -23,10 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mhmdiqb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/snake-output/snake.svg" alt="Snake animation" />
+[![](https://komarev.com/ghpvc/?username=mhmdiqb&color=blue)](https://visitcount.itsvg.in)
 
 ###
 
@@ -35,6 +32,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
