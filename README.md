@@ -1,4 +1,4 @@
-![Muhammad Iqbal](img/backend_engineer_banner_cropped.png)
+![Muhammad Iqbal](img/background.png)
 
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable REST APIs and microservices architectures using Node.js / Express.<br><br>👯 I’m looking to collaborate on: Open-source backend tools, API integrations, and database optimization projects.<br><br>🤝 I’m looking for help with: Advanced system design patterns and cloud infrastructure practices.<br><br>🌱 I’m currently learning: DevOps fundamentals, Docker containerization, and advanced PostgreSQL performance tuning.<br><br>💬 Ask me about: JavaScript/Node.js, database modeling, and backend web development.<br><br>⚡ Fun fact: I enjoy turning complex business logic into clean, efficient SQL queries and APIs.
