@@ -64,8 +64,8 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta"
-    width="100%"
-    alt="GitHub Contribution Streak"
+    width="50%"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -74,10 +74,13 @@
 ## 🏆 Top Contributed Repositories
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=dark&combine_all_yearly_contributions=true"
-    alt="Top Contributed Repositories"
-  />
+  <a href="https://github.com/mhmdiqb?tab=repositories">
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=merko&combine_all_yearly_contributions=true"
+      alt="Top Contributed Repositories"
+      width="80%"
+    />
+  </a>
 </p>
 
 ---
@@ -86,7 +89,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=mhmdiqb&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=mhmdiqb&label=PROFILE%20VIEWS&color=00ADD8&style=flat-square"
     alt="Profile Views"
   />
 </p>
