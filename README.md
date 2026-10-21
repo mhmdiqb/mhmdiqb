@@ -64,7 +64,7 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta"
-    width="50%"
+    width="75%"
     alt="GitHub Streak"
   />
 </p>
@@ -76,7 +76,7 @@
 <p align="center">
   <a href="https://github.com/mhmdiqb?tab=repositories">
     <img
-      src="https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=merko&combine_all_yearly_contributions=true"
+      src="https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=merko&combine_all_yearly_contributions=true&cache_seconds=86400"
       alt="Top Contributed Repositories"
       width="80%"
     />
