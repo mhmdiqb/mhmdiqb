@@ -14,10 +14,30 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mhmdiqb&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdiqb&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mhmdiqb&show_icons=true&include_all_commits=true&rank_icon=default&theme=merko&hide_border=true"
+    height="180"
+    alt="Statistik GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=compact&langs_count=8&theme=merko&hide_border=true"
+    height="180"
+    alt="Bahasa pemrograman yang digunakan"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta"
+    width="100%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=dark&combine_all_yearly_contributions=true)
