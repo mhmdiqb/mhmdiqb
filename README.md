@@ -71,17 +71,23 @@
 
 ---
 
-## 🏆 Top Contributed Repositories
+## 🏆 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/mhmdiqb/campusFix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdiqb&repo=campusFix&theme=merko&hide_border=true" alt="CampusFix" />
+  </a>
+  <a href="https://github.com/mhmdiqb/event-ticketing-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhmdiqb&repo=event-ticketing-api&theme=merko&hide_border=true" alt="Event Ticketing API" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/mhmdiqb?tab=repositories">
-    <img
-      src="https://github-contributor-stats.vercel.app/api?username=mhmdiqb&limit=5&theme=merko&combine_all_yearly_contributions=true&cache_seconds=86400"
-      alt="Top Contributed Repositories"
-      width="80%"
-    />
+    <b>Explore All Repositories →</b>
   </a>
 </p>
+
 
 ---
 
