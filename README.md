@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="img/background.png" alt="Muhammad Iqbal - Backend Developer" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm Muhammad Iqbal
 
