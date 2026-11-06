@@ -202,9 +202,9 @@ Developing modular application systems with clean architecture and maintainable 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdiqb&show_icons=true&theme=merko&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdiqb&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
