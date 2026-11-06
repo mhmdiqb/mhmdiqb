@@ -198,16 +198,6 @@ Developing modular application systems with clean architecture and maintainable 
 
 ---
 
-# 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdiqb&theme=tokyo-night" width="100%" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
