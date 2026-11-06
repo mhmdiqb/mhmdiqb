@@ -8,8 +8,6 @@
 
 ### Backend Engineer • Database Specialist • System Architecture Enthusiast
 
-Building robust, scalable APIs and reliable backend infrastructure to power modern applications.
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+Express+%7C+REST+APIs;Database+Modeling+%7C+SQL+Optimization;System+Design+%7C+Microservices;Always+Building+Scalable+Systems" />
 
 <br>
