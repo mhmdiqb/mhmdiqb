@@ -205,7 +205,6 @@ Developing modular application systems with clean architecture and maintainable 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdiqb&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=mhmdiqb&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://ghstats.dev/api/langs?username=mhmdiqb&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
 </div>
