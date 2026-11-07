@@ -206,5 +206,5 @@ Developing modular application systems with clean architecture and maintainable 
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=mhmdiqb&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://ghstats.dev/api/langs?username=mhmdiqb&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=default&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
