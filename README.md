@@ -205,49 +205,7 @@ Developing modular application systems with clean architecture and maintainable 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=mhmdiqb&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://ghstats.dev/api/langs?username=mhmdiqb&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
-</div>
-
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/pacman-output/pacman-contribution-graph.svg?game=pacman" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/mhmdiqb/mhmdiqb/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
-</picture>
-
-</div>
-
----
-
-# 💭 Philosophy
-
-> Clean architecture and well-designed databases are the invisible foundation of every great digital product.
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-Always open to collaboration, API integration projects, and technology discussions.
-
-<a href="https://instagram.com/mh_md.iqb">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://github.com/mhmdiqb">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://mhmdiqb.netlify.app">
-<img src="https://cdn.simpleicons.org/googlechrome" width="48"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdiqb&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdiqb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
