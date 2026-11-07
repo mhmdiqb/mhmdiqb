@@ -199,9 +199,7 @@ Developing modular application systems with clean architecture and maintainable 
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mhmdiqb&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com?user=mhmdiqb&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </div>
 
 ---
