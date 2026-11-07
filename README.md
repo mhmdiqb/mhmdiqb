@@ -196,13 +196,16 @@ Developing modular application systems with clean architecture and maintainable 
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Commit Streak
 
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=herdiansyahdp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta" />
+## 📊 GitHub Stats
 
-</div>
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
 
 ---
 
