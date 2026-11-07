@@ -196,10 +196,13 @@ Developing modular application systems with clean architecture and maintainable 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mhmdiqb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mhmdiqb&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdiqb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta" />
+
+</div>
 
 ---
 
