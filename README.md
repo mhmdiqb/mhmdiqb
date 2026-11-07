@@ -200,7 +200,7 @@ Developing modular application systems with clean architecture and maintainable 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mhmdiqb&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta&invalidate=true" />
+<img src="https://streak-stats.demolab.com?user=mhmdiqb&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 
 </div>
 
