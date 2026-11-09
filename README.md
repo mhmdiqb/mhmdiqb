@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Muhammad Iqbal
 
-### Backend Engineer • Database Specialist • System Architecture Enthusiast
+### Backend Developer • Database Specialist • System Architecture Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+Express+%7C+REST+APIs;Database+Modeling+%7C+SQL+Optimization;System+Design+%7C+Microservices;Always+Building+Scalable+Systems" />
 
